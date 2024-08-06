@@ -1,2 +1,1 @@
-# conformal-node-classification
-Conformal prediction for node classification (both transductive and inductive settings).
+Main experiments are placed in `overal-evaluation.ipynb` and `overal-scores.ipynb`. In order to run them you need to install pytorch and pytorch-geometric + the packages in the `./packages` folder.
